@@ -1,5 +1,16 @@
 # Spring Boot Microservices
 
+#### Description 
+  - https://hub.docker.com/u/mabeatti
+- Declaring Spring Data JPA repository interfaces
+- Using Spring Data query methods
+- Exposing RESTful APIs with Spring Data REST
+- Creating HTTP methods for updating and deleting data
+- Configuring security with JSON web tokens
+- Leveraging Docker for MySQL database access
+- Dockerizing your microservice
+
+
 #### Docker Commands
 
 ##### Start MySql Container (downloads image if not found)
